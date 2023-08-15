@@ -40,6 +40,6 @@ const findLongestWord = (sentence) => {
     return currentLongest;
 }
 
-const sentence = "What words are longest here motherfucker?";
+const sentence = "What words are longest here bongest?";
 const longestWord = findLongestWord(sentence);
 console.log("Longest word:", longestWord);
